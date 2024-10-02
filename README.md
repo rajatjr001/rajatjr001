@@ -79,8 +79,10 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="(https://github-readme-stats.vercel.app/api?username=rajatjr001)](https://github.com/anuraghazra/github-readme-stats) />
- 
- <img (https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact) />
+
+<p align="center">
+  <a href=~https://
+ <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=rajatjr001&layout=compact) />
   </a>
   </p>
 
