@@ -21,7 +21,6 @@
 
 ### - Hobbies : 
 - ✨ Gaming Addict
-- ✨ Watching Anime
 - ✨ Reading Light Novels
 - ✨ footballer
 
